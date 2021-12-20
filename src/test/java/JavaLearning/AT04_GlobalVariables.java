@@ -5,7 +5,7 @@ import org.junit.Test;
 import java.text.StringCharacterIterator;
 
 public class AT04_GlobalVariables {
-    //Global variables
+    //Global variables ####
     int i= 10;
     int j= 20;
     String y= "Presented by Test Software Institute";
