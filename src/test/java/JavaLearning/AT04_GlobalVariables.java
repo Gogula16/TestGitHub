@@ -26,4 +26,6 @@ public class AT04_GlobalVariables {
         String Test03= Test01 + " " + Test02+" "+y;
         System.out.println(Test03);
     }
+
+    //successfully declared global variables in above methods
 }
