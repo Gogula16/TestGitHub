@@ -35,5 +35,5 @@ public class AT03_StringInt {
   String Test03= Test01 + " " + Test02;
   System.out.println(Test03);
  }
-
+//successfully declared integers in above methods.
 }

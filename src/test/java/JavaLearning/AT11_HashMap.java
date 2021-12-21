@@ -4,6 +4,8 @@ import org.junit.Test;
 
 import java.util.HashMap;
 
+// declaring maps
+
 public class AT11_HashMap {
     @Test
     public void Test15(){

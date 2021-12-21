@@ -25,7 +25,7 @@ public class AT10_Arrays_ForLoop {
         for(int l=0;l<k;l++){
         System.out.println("Array Index :"+l+" Its Value: "+ " " + Height[l]);
         }
-
+//successfully declared arrays in loops
     }
 
 }
